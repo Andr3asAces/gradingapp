@@ -1,4 +1,4 @@
 # gradingapp
 
-This is a simple scoring app I made for users of my survey churn jupyter notebook to send me their predictions.
+This is a simple scoring app I created. It serves as the grading stage for machine learning model predicitons sent by the users that interacted with the survey churn lab.
 
